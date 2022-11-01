@@ -1,0 +1,27 @@
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.header {
+  height: auto;
+  width: 100%;
+  background-color: rgba(red, green, blue, 0.3);
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.name {
+  font-size: 26px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+.lab_record {
+  padding-left: 50px;
+  margin-bottom: 20px;
+}
